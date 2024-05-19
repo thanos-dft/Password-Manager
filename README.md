@@ -65,4 +65,4 @@ Contributions are welcome! Here are the steps to contribute:
 For any questions or suggestions, please reach out:
 
     GitHub: thanos-dft
-    Email: thanos@example.com
+    Email: thanos.dft@gmail.com
