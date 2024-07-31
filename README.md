@@ -1,4 +1,4 @@
-Password Manager
+Password Manager.
 
 A simple password manager application built with Python, designed to securely store and manage your passwords locally.
 Table of Contents
